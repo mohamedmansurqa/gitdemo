@@ -12,6 +12,11 @@ public class annotation {
 	@Test
 	public void property() throws IOException {
 		
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		System.out.println("4");
+		
 		Properties fis = new Properties();
 		FileInputStream prop = new FileInputStream("C:\\Users\\ELCOT\\eclipse-workspace\\prop\\src\\main\\java\\Mvn\\prop\\123.properties");
 		
