@@ -17,6 +17,11 @@ public class annotation {
 		System.out.println("3");
 		System.out.println("4");
 		
+		System.out.println("AB");
+		System.out.println("BC");
+		System.out.println("CD");
+		System.out.println("EF");
+		
 		Properties fis = new Properties();
 		FileInputStream prop = new FileInputStream("C:\\Users\\ELCOT\\eclipse-workspace\\prop\\src\\main\\java\\Mvn\\prop\\123.properties");
 		
